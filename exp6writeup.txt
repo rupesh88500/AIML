@@ -1,0 +1,39 @@
+Aim: Design a prototype of an expert system
+Theory:
+REACTOR - Nuclear expert system
+REACTOR is a pioneering artificial intelligence program developed by EG&G Idaho, Inc. to help nuclear 
+power plant operators diagnose and respond to reactor accidents.
+
+Overview
+
+• Purpose: Designed to assist control room operators during high-stress emergency situations by analyzing plant 
+           conditions and recommending treatment.
+• Strategies: Combines event-oriented strategies (identifying specific accident sequences) 
+             with function-oriented strategies (monitoring critical safety functions like cooling).
+• Knowledge Representation: Utilizes response trees to link specific accident scenarios directly 
+                             to correct emergency procedures.
+
+Core Components
+
+• Knowledge Base: Stores expert rules, operational safety criteria and physical relationships of nuclear system.
+• Inference Engine: Evaluates incoming sensor data against the stored rules to deduce the state of the reactor.
+• User Interface: Displays actionable advice and system status to human operators in real time and very clearly.
+
+Advantages & Disadvantages
+
+Advantages:
+1. Rapid Diagnosis: Processes data instantly to
+2. Objective choice: Remains calm and entirely logical under intense stress.
+3. Knowledge Retention: Safeguards expert human wisdom for permanent availability.
+4. Dual-strategy Care: Monitors both specific faults and overall core health.
+Disadvantages:
+1. No Common sense: Fails completely when facing unprogrammed, novel situations.
+2. Data Dependency: Faulty sensor readings will trigger dangerous system mistake.
+3. High Maintenance: Demands continuous, expensive updating by nuclear experts.
+4. No Accountability: Humans must always authorize final critical safety actions.
+
+Conclusion
+
+REACTOR pioneered objective, dual-strategy nuclear accident diagnosis to prevent operator panic. 
+While limited by rigid rules and sensor reliance, it proved AI works best as an active safety partner rather 
+than a human replacement.

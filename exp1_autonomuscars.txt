@@ -1,0 +1,61 @@
+Here is the entire extracted text combined into a single, cohesive document:
+
+Aim: Provide the PEAS description and task environment for a given AI problem.
+
+
+Theory
+
+PEAS is a framework used in AI to describe the key components of a problem task.
+• P stands for performance measure. Performance measure is the unit to define the success of an agent.
+• Environment: Environment is the surrounding of an agent. At every instant it keeps changing time it then agent is set in motion.
+• Actuation: An actuator is part of the agent that delivers the operation of action to the environment.
+• Sensor: Sensors are the receptive part of an agent that takes input for the agent.
+
+Types of Task environment
+
+• Fully-observable and partially observable - where an agent sensor is capable to sense or access the complete state an agent at each point in time.
+	• Eg: chess the board is fully observable and so are the components moves.
+• Dynamic and static - The Environment that keeps constantly changing up with some action is said to be dynamic.
+	• Eg: Roller coaster - A roller coaster ride is dynamic is said to motion and the environment keeps changing.
+• deterministic and stochastic - when a uniqueness in the agent's current state completely determines the next state of the agent.
+	• Eg: Self-Driving Cars - The action of self-driving car are not unique, it varies waste of time.
+• discrete and Continuous - If an environment consist of a finite number of action that can be deliberated then only it is said to be a discrete environment.
+	• Eg: chess - The game of chess is discrete as it has a finite number of moves.
+• Competitive and collaborative - An agent is said to a Competitive environment when it competes against another agent to optimize the output.
+	• Eg: chess, the game of chess is Competitive as the agent compete with each other to win the game which is output.
+
+Problem statement - Autonomous Car
+
+
+Performance analysis
+
+Success and efficiency are based on:
+• Safety: Avoiding collisions, obeying traffic laws and protecting pedestrians.
+• Efficiency: Minimizing travel times and optimizing routes.
+• Comfort: Providing smooth acceleration, braking and gentle turns for passengers.
+• Cost/Energy: Minimizing fuel or electricity consumption and vehicle wear and tear.
+
+Environment
+
+• Roads: Highways, city streets, parking lots.
+• Traffic: Other cars, cyclists and pedestrians.
+• Static infrastructure: Traffic signals, road signs, lane markings and barriers.
+• Dynamic factors: Weather, time.
+
+Actuators
+
+• Steering: Controls the directional movement and wheel.
+• Throttle: Controls engine output, acceleration, speed.
+• Brakes: slow down or halting.
+• Signaling: headlights, indicators.
+
+Sensors
+
+• Cameras: Provide visual data for detecting objects, traffic signs.
+• LiDAR & Radar: Emit light or radio waves to create a 3D map and calculate distances.
+• GPS: Provides location tracking.
+• Internal sensors: Accelerometer, fuel indicator etc.
+
+Conclusion
+
+Thus we have studied and understand the concept of PEAS discription and Task Environment for given AI problem.
